@@ -1,0 +1,21 @@
+body {
+  font-family: Gilroy, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+
+.footer {
+  padding: 51px 130px;
+  background: #00008b;
+  color: #fff;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 18px;
+  font-weight: 400;
+}
